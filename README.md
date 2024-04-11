@@ -9,10 +9,10 @@ This simple Flutter application demonstrates how to integrate barcode and QR cod
 - Ensure you have granted camera permissions to the app on your device to enable scanning functionalities.
 - For Android, modify all reference `FlutterFragmentActivity` to `FlutterActivity`
 
-  Java:
+Java:
 
 ` public class MainActivity extends FlutterActivity`
 
-  Or for Kotlin:
+Or for Kotlin:
 
 ` class MainActivity: FlutterActivity()`
